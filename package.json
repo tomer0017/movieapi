@@ -6,10 +6,19 @@
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "^12.8.3",
+    "bootstrap": "^4.6.0",
+    "bootstrapt": "^1.1.1",
+    "radium": "^0.26.1",
     "react": "^17.0.2",
+    "react-bootstrap": "^1.5.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.1"
+    "react-hover": "^2.0.0",
+    "react-popupbox": "^2.0.8",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^2.1.8",
+    "swiper": "^6.5.7",
+    "web-vitals": "^1.1.1",
+    "youtube-player": "^5.5.2"
   },
   "scripts": {
     "start": "react-scripts start",
